@@ -1,9 +1,10 @@
 <h1 align="center">Web Dev Course Outputs</h1>
 <h3 align="center">Web Dev Course Outputs</h3>
 
-- 🔭 I’m currently working on [Soon...](Soon...)
+- This is all my outputs from my webdev course of **Angela Yu**
 
-<h3 align="left">Connect with me:</h3>
+- From basic html, css, and javascript and a intro to **Express Project**
+
 <p align="left">
 </p>
 
