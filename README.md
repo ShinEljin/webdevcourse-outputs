@@ -1,5 +1,5 @@
 <h1 align="center">Web Dev Course Outputs</h1>
-<h3 align="center">Web Dev Course Outputs</h3>
+<h3 align="center">Angel Yu Web Develpoment Course Outputs</h3>
 
 - This is all my outputs from my webdev course of **Angela Yu**
 
