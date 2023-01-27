@@ -3,7 +3,7 @@
 
 - This is all my outputs from my webdev course of **Angela Yu**
 
-- From basic html, css, and javascript and a intro to **Express Project**
+- From basic **html, css, and javascript** and a intro to **Express Project**
 
 <p align="left">
 </p>
